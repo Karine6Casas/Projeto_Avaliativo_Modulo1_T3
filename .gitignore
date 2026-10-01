@@ -1,0 +1,6 @@
+# ignorar minhas informaçoes 
+
+venv/
+.env
+__pycache__/
+*.pyc
